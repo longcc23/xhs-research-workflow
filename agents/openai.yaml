@@ -1,0 +1,3 @@
+interface:
+  display_name: "小红书研究工作流"
+  short_description: "检索小红书笔记、核实图文视频与评论，形成可追溯的研究结论和创作依据"
